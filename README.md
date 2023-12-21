@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajath Karangara
 - 👀 I’m interested in learning and exploring new opportunities
-- 🌱 I’m currently learning Java
+- 🌱 I can peer review your Java Code
 - 💞️ I’m looking to collaborate on Coding
 - 📫 How to reach me ...email
 
